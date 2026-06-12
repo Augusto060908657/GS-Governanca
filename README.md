@@ -25,7 +25,7 @@ Os trabalhos foram divididos de acordo com as disciplinas do semestre. Navegue p
  itens fazem parte desta entrega final:
 
 - **Vídeo de Demonstração:** https://youtu.be/UDtDFO2ik9Y
-- **Documentação Oficial:** https://drive.google.com/file/d/1nkEvrJqPSiJKQfuzsciBqfi0HCOuwb5V/view?usp=sharing
+- **Documentação Oficial:** https://drive.google.com/file/d/1nkEvrJqPSiJKQfuzsciBqfi0HCOuwb5V/view?usp=sharing](https://drive.google.com/file/d/18iqu8LFEAcFC7Jpg3yAQuxiE4oNEuOfY/view?usp=sharing
 - **Repositório:** Este próprio GitHub contendo todos os itens desenvolvidos.
 
 ## Autores
