@@ -31,4 +31,3 @@ Os trabalhos foram divididos de acordo com as disciplinas do semestre. Navegue p
 ## Autores
 
 * **Octavio Augusto Ramalho Brandão Pires** - RM: 555696
-* **Guilherme Santos de Almeida** - RM: 563972
